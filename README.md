@@ -5,7 +5,14 @@ Benefits: With Tortoise, it is possible to generate high-quality speech from tex
 
 Scope of Functionalities: Tortoise provides a high-level API for TTS synthesis that can be used to generate speech from text. It supports custom voices and quality presets.
 
-Screenshots: Not applicable for code.
+Screenshots: 
+![image](https://user-images.githubusercontent.com/55629425/217155375-634a2196-cfee-4979-a964-4d8e0728f250.png)
+#what to be spoken must be entered here
+![image](https://user-images.githubusercontent.com/55629425/217155557-aeb563ae-418f-4dff-aabb-5c07c28cbaa5.png)
+#voice generated must be downloaded here
+![image](https://user-images.githubusercontent.com/55629425/217155659-dbd163cd-00e0-4e75-8da3-e01cca0d7452.png)
+
+
 
 Development Resources:
 
